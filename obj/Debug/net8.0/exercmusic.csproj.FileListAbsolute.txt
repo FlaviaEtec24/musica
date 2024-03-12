@@ -1,0 +1,14 @@
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.AssemblyInfoInputs.cache
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.AssemblyInfo.cs
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\exercmusic\bin\Debug\net8.0\exercmusic.exe
+C:\Users\user\Documents\exercmusic\bin\Debug\net8.0\exercmusic.deps.json
+C:\Users\user\Documents\exercmusic\bin\Debug\net8.0\exercmusic.runtimeconfig.json
+C:\Users\user\Documents\exercmusic\bin\Debug\net8.0\exercmusic.dll
+C:\Users\user\Documents\exercmusic\bin\Debug\net8.0\exercmusic.pdb
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.dll
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\refint\exercmusic.dll
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.pdb
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\exercmusic.genruntimeconfig.cache
+C:\Users\user\Documents\exercmusic\obj\Debug\net8.0\ref\exercmusic.dll
