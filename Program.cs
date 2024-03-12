@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Trem bala");
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("Trem bala");
+Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine("Não é sobre ter todas as pessoas do mundo pra si");
 Console.WriteLine("É sobre saber que em algum lugar alguém zela por ti");
 Console.WriteLine("É sobre cantar e poder escutar mais do que a própria voz");
